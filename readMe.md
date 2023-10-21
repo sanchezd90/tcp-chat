@@ -5,7 +5,7 @@ The TCP Chat App is a basic chat program that uses TCP/IP to connect. It has a b
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/sanchezd90/tcp-chat`
 2. Follow the steps for the backend and frontend installation. 
 
 
