@@ -1,0 +1,21 @@
+{
+  "name": "tcp-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js",
+    "httpServer": "node --watch serverHttp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "16.3.1",
+    "express": "4.18.2",
+    "readline-sync": "1.4.10"
+  }
+}
