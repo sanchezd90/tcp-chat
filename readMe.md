@@ -1,7 +1,16 @@
 # TCP Chat App
 
-The TCP Chat App is a basic chat program that uses TCP/IP to connect. It has a backend with three main parts: Server, Client, and httpServer. The Server helps manage connections between clients so they can chat smoothly. The Client lets users connect to the server and talk to each other. The httpServer allows you to check messages and get simple info using a web browser. It also has a frontend that displays the chats stored in the database. 
+The TCP Chat App is a basic chat program that uses TCP/IP to connect. This app was developed using AI tools, primarily as a learning exercise to explore the integration of AI capabilities in the app development process. 
 
+## Description
+
+It has a backend with three main parts: Server, Client, and httpServer. The Server helps manage connections between clients so they can chat smoothly. The Client lets users connect to the server and talk to each other. The httpServer allows you to check messages and get simple info using a web browser. It also has a frontend that displays the chats stored in the database. 
+
+## Role of AI tools
+
+I used chatGPT primarily to build the frontend components the fastest way possible so that I could focus on the development of the backend services. The entire development of the frontend took me less than 20 minutes. 
+
+I also used chatGPT as aid in the creation of this readMe.dm. It took me less than 30 minutes, being this the very first readMe file I've ever written. 
 
 ## Installation
 
